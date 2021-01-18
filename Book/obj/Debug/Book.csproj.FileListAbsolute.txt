@@ -1,0 +1,14 @@
+C:\Users\dmitr\source\repos\Book\Book\bin\Debug\Book.exe.config
+C:\Users\dmitr\source\repos\Book\Book\bin\Debug\Book.exe
+C:\Users\dmitr\source\repos\Book\Book\bin\Debug\Book.pdb
+C:\Users\dmitr\source\repos\Book\Book\bin\Debug\EntityFramework.dll
+C:\Users\dmitr\source\repos\Book\Book\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dmitr\source\repos\Book\Book\bin\Debug\EntityFramework.xml
+C:\Users\dmitr\source\repos\Book\Book\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dmitr\source\repos\Book\Book\obj\Debug\Book.csprojAssemblyReference.cache
+C:\Users\dmitr\source\repos\Book\Book\obj\Debug\Book.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\source\repos\Book\Book\obj\Debug\Book.csproj.CopyComplete
+C:\Users\dmitr\source\repos\Book\Book\obj\Debug\Book.exe
+C:\Users\dmitr\source\repos\Book\Book\obj\Debug\Book.pdb
+C:\Users\dmitr\source\repos\Book\Book\obj\Debug\Book.Migrations._1.resources
+C:\Users\dmitr\source\repos\Book\Book\obj\Debug\Book.csproj.GenerateResource.cache
